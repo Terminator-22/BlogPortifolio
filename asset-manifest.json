@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Terminator-22/BlogPortifolio/static/css/main.7e0dfd26.css",
+    "main.js": "/Terminator-22/BlogPortifolio/static/js/main.4f550a76.js",
+    "static/js/453.522a8443.chunk.js": "/Terminator-22/BlogPortifolio/static/js/453.522a8443.chunk.js",
+    "index.html": "/Terminator-22/BlogPortifolio/index.html",
+    "main.7e0dfd26.css.map": "/Terminator-22/BlogPortifolio/static/css/main.7e0dfd26.css.map",
+    "main.4f550a76.js.map": "/Terminator-22/BlogPortifolio/static/js/main.4f550a76.js.map",
+    "453.522a8443.chunk.js.map": "/Terminator-22/BlogPortifolio/static/js/453.522a8443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e0dfd26.css",
+    "static/js/main.4f550a76.js"
+  ]
+}
